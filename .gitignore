@@ -1,3 +1,11 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
 # Logs
 logs
 *.log
@@ -147,3 +155,6 @@ vite.config.ts.timestamp-*
 
 # Turbo Repo
 .turbo
+
+# Java build files
+**/target/

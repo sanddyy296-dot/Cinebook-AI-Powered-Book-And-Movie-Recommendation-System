@@ -1,0 +1,6 @@
+{
+  "name": "CineBook AI - Book & Movie Recommendation System",
+  "description": "An AI-powered unified book and movie recommendation system with multilingual discovery, hybrid recommendation algorithms, user wishlists, and complete Java Spring Boot 3 full-stack source code.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
